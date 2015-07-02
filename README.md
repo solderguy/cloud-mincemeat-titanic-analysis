@@ -2,8 +2,8 @@
 GUI-based Python program to generate Kaggle Titanic submission files using map-reduce on AWS-EMR or locally  
 
  Author John Soper
-  Comments and questions welcome:  
-      http://www.linkedin.com/in/johnwsoper
+  Comments and questions welcome:    
+      http://www.linkedin.com/in/johnwsoper  
       micej_soper@sbcglobal.net (to email, chase out the rats)
 
 
@@ -34,8 +34,7 @@ FEATURES
     9.  Nearly full 10/10 compliance with Pylint (except for third-party Mincemeat
         module)   
     
-INSTRUCTIONS   
-    NOTE: All below can be run from command line or Eclipse
+INSTRUCTIONS (Note: all modules below can be run from the command line or Eclipse)
     
     gui_titanic  - run for AWS-EMR session with GUI (average time 8 minutes)  
     emr_titanic - run for same results as above without GUI (defaults only)  
