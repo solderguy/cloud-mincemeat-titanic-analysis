@@ -1,6 +1,5 @@
 # cloud-mincemeat-titanic-analysis
-GUI-based Python program to generate Kaggle Titanic submission files using map-reduce on  
-AWS-EMR or locally  
+GUI-based Python program to generate Kaggle Titanic submission files using map-reduce on AWS-EMR or locally  
 
  Author John Soper
   Comments and questions welcome:  
@@ -36,7 +35,8 @@ FEATURES
         module)   
     
 INSTRUCTIONS   
-    NOTE: All below can be run from command line or Eclipse   
+    NOTE: All below can be run from command line or Eclipse
+    
     gui_titanic  - run for AWS-EMR session with GUI (average time 8 minutes)  
     emr_titanic - run for same results as above without GUI (defaults only)  
     launch_mr_func_test - run for local map-reduce with Python Mincemeat  
@@ -46,8 +46,7 @@ INSTRUCTIONS
 DISCLAIMERS  
 1.  The word "test" is overloaded in this project, which may cause confusion.
     The input file is "test.csv" because it used a model calculated elsewhere from
-    "train.csv".  These are standard data science names.  
-    The mincemeat code (including the launch file) runs a non-cloud map-reduce
+    "train.csv".  These are standard data science names.  The mincemeat code (including the launch file) runs a non-cloud map-reduce
     which is considered a functional test for checking the cloud results
     There's also one file of unit tests.  
  
