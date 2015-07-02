@@ -44,13 +44,13 @@ INSTRUCTIONS
     
   
 DISCLAIMERS  
-1.  The word "test" is overloaded in this project, which may cause confusion.
+--The word "test" is overloaded in this project, which may cause confusion.
     The input file is "test.csv" because it used a model calculated elsewhere from
     "train.csv".  These are standard data science names.  The mincemeat code (including the launch file) runs a non-cloud map-reduce
     which is considered a functional test for checking the cloud results
     There's also one file of unit tests.  
  
-2.  The mincemeat module and the concept of a python map-reduce are not my
+ --The mincemeat module and the concept of a python map-reduce are not my
     work but Michael Fairley's.  The mincemeat.py module has not been altered.  
     
     https://github.com/michaelfairley/mincemeatpy  
@@ -58,7 +58,7 @@ DISCLAIMERS
     Another good site:  
     http://mjtoolbox.wordpress.com/2013/04/21/map-reduce-using-python-mincemeat-i/  
       
-3.  The complex Tkinter code in gui_titanic.py is not my work, but is from  
+--The complex Tkinter code in gui_titanic.py is not my work, but is from  
     username dazza at:  
     http://www.executionunit.com/blog/2012/10/26/using-python-and-tkinter-capture-script-output/  
    
