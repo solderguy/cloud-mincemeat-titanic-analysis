@@ -62,4 +62,4 @@ DISCLAIMERS
     http://www.executionunit.com/blog/2012/10/26/using-python-and-tkinter-capture-script-output/  
    
     However, I did learn a lot from altering it for my needs.    
-    A sincere thank you to both gentlemen mentioned above  
+    A sincere thank you to both gentlemen mentioned above    
