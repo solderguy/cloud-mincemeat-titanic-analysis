@@ -20,7 +20,7 @@ GUI-based Python program to generate Kaggle Titanic submission files using map-r
   After the class was over, it was expanded with features and test code.  This was 
   both for learning and my Github portfolio.
   
-FEATURES
+FEATURES  
     1.  Runs entirely with Python and verifed on MacOS 10.7.5, Windows 7, 
         and Ubuntu 14.04  
     2.  Control panel provided by Tkinter graphics  
